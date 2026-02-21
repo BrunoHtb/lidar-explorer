@@ -42,7 +42,7 @@ function App() {
           <span className="text-sm text-slate-400 font-bold tracking-widest uppercase">
             Control Panel
           </span>
-          <a href="https://github.com/seu-usuario" target="_blank" rel="noreferrer" className="text-sm text-slate-400 hover:text-white transition tracking-wider">
+          <a href="https://github.com/BrunoHtb" target="_blank" rel="noreferrer" className="text-sm text-slate-400 hover:text-white transition tracking-wider">
             GITHUB
           </a>
         </header>
